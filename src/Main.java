@@ -75,6 +75,7 @@ public class Main {
 //        emplists.deleteEmployee("Sheena A");
         //update the role of employee
          emplists.UpdateEmployee(2,"Designer");
+        emplists.UpdateEmployee(3,"FabricCutter");
     }
 
 
